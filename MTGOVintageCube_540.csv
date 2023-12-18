@@ -1,541 +1,541 @@
-name,CMC,Type,Color,Set,Rarity,Color Category
-Esper Sentinel,1,Artifact Creature - Human Soldier,W,mh2,rare,w
-Giver of Runes,1,Creature - Kor Cleric,W,mh1,rare,w
-Mother of Runes,1,Creature - Human Cleric,W,ulg,uncommon,w
-Student of Warfare,1,Creature - Human Knight,W,roe,rare,w
-Thraben Inspector,1,Creature - Human Soldier,W,mb1,common,w
-Usher of the Fallen,1,Creature - Spirit Warrior,W,khm,uncommon,w
-Weathered Wayfarer,,Creature - Human Nomad Cleric,,ons,rare,w
-Adanto Vanguard,2,Creature - Vampire Soldier,W,xln,uncommon,w
-Cathar Commando,2,Creature - Human Soldier,W,mid,common,w
-Containment Priest,2,Creature - Human Cleric,W,uma,rare,w
-Intrepid Adversary,2,Creature - Human Scout,W,mid,mythic,w
-Leonin Relic-Warder,2,Creature - Cat Cleric,W,c17,uncommon,w
-Lion Sash,2,Artifact Creature - Equipment Cat,W,neo,rare,w
-Selfless Spirit,2,Creature - Spirit Cleric,W,emn,rare,w
-Stoneforge Mystic,2,Creature - Kor Artificer,W,wwk,rare,w
-"Thalia, Guardian of Thraben",2,Legendary Creature - Human Soldier,W,a25,rare,w
-Tithe Taker,,Creature - Human Soldier,,rna,rare,w
-Wall of Omens,2,Creature - Wall,W,ema,uncommon,w
-"Adeline, Resplendent Cathar",3,Legendary Creature - Human Knight,W,mid,rare,w
-Blade Splicer,3,Creature - Human Artificer,W,mm3,rare,w
-Elite Spellbinder,3,Creature - Human Cleric,W,stx,rare,w
-Flickerwisp,3,Creature - Elemental,W,e01,uncommon,w
-Loran of the Third Path,3,Legendary Creature - Human Artificer,W,bro,rare,w
-Monastery Mentor,3,Creature - Human Monk,W,frf,mythic,w
-Porcelain Legionnaire,3,Artifact Creature - Soldier,W,nph,common,w
-Recruiter of the Guard,3,Creature - Human Soldier,W,pz2,rare,w
-Skyclave Apparition,3,Creature - Kor Spirit,W,znr,rare,w
-Hero of Bladehold,4,Creature - Human Knight,W,mbs,mythic,w
-Palace Jailer,4,Creature - Human Soldier,W,cn2,uncommon,w
-Restoration Angel,4,Creature - Angel,W,ima,rare,w
-Serra Paragon,,Creature - Angel,,dmu,mythic,w
-Boon-Bringer Valkyrie,,Creature - Angel Warrior,,mom,rare,w
-Guardian Scalelord,,Creature - Dragon,,moc,rare,w
-Karmic Guide,,Creature - Angel Spirit,,ulg,rare,w
-Solitude,5,Creature - Elemental Incarnation,W,mh2,mythic,w
-Steel Seraph,,Artifact Creature - Angel,,bro,rare,w
-Sun Titan,,Creature - Giant,,m11,mythic,w
-"Elesh Norn, Grand Cenobite",7,Legendary Creature - Praetor,W,ima,mythic,w
-"Iona, Shield of Emeria",9,Legendary Creature - Angel,W,zen,mythic,w
-"Elspeth, Knight-Errant",4,Legendary Planeswalker - Elspeth,W,ddf,mythic,w
-"Gideon, Ally of Zendikar",4,Legendary Planeswalker - Gideon,W,bfz,mythic,w
-The Wandering Emperor,4,Legendary Planeswalker,W,neo,mythic,w
-"Elspeth, Sun's Champion",6,Legendary Planeswalker - Elspeth,W,ths,mythic,w
-Enlightened Tutor,,Instant,,mir,uncommon,w
-Ephemerate,1,Instant,W,mh1,common,w
-Path to Exile,1,Instant,W,cma,uncommon,w
-Swords to Plowshares,1,Instant,W,bbd,uncommon,w
-Reprieve,,Instant,,ltr,uncommon,w
-Unexpectedly Absent,,Instant,,c13,rare,w
-Oust,1,Sorcery,W,roe,uncommon,w
-Prismatic Ending,,Sorcery,,mh2,uncommon,w
-Balance,2,Sorcery,W,ema,mythic,w
-Winds of Abandon,2,Sorcery,W,plist,rare,w
-Council's Judgment,3,Sorcery,W,vma,rare,w
-Sevinne's Reclamation,,Sorcery,,c19,rare,w
-Armageddon,4,Sorcery,W,a25,mythic,w
-Wrath of God,4,Sorcery,W,ema,rare,w
-Spectral Procession,6,Sorcery,W,mm2,uncommon,w
-Mox Pearl,,Artifact,W,vma,bonus,w
-Glimmer Lens,,Artifact - Equipment,,onc,rare,w
-Touch the Spirit Realm,,Enchantment,,neo,uncommon,w
-Parallax Wave,4,Enchantment,W,vma,rare,w
-Leyline Binding,,Enchantment,,dmu,rare,w
-"Baral, Chief of Compliance",2,Legendary Creature - Human Wizard,U,aer,rare,u
-Faerie Mastermind,,Creature - Faerie Rogue,,mom,rare,u
-"Jace, Vryn's Prodigy",2,Legendary Creature - Human Wizard ,U,v17,mythic,u
-Ledger Shredder,,Creature - Bird Advisor,,snc,rare,u
-Phantasmal Image,2,Creature - Illusion,U,mm3,rare,u
-Snapcaster Mage,2,Creature - Human Wizard,U,uma,mythic,u
-Thieving Skydiver,2,Creature - Merfolk Rogue,U,znr,rare,u
-Brazen Borrower,3,Creature - Faerie Rogue ,U,eld,mythic,u
-Chrome Host Seedshark,,Creature - Phyrexian Shark,,mom,rare,u
-Deceiver Exarch,3,Creature - Cleric,U,cma,uncommon,u
-"Emry, Lurker of the Loch",3,Legendary Creature - Merfolk Wizard,U,eld,rare,u
-Pestermite,3,Creature - Faerie Rogue,U,mma,common,u
-Spellseeker,3,Creature - Human Wizard,U,bbd,rare,u
-Svyelun of Sea and Sky,,Legendary Creature - Merfolk God,,mh2,mythic,u
-Trinket Mage,3,Creature - Human Wizard,U,ddu,common,u
-Vendilion Clique,3,Legendary Creature - Faerie Wizard,U,a25,mythic,u
-Displacer Kitten,,Creature - Cat Beast,,clb,rare,u
-Phyrexian Metamorph,4,Artifact Creature - Shapeshifter,U,nph,rare,u
-Sower of Temptation,4,Creature - Faerie Wizard,U,bbd,rare,u
-Subtlety,,Creature - Elemental Incarnation,,mh2,mythic,u
-"Urza, Lord High Artificer",4,Legendary Creature - Human Artificer,U,mh1,mythic,u
-"Venser, Shaper Savant",4,Legendary Creature - Human Wizard,U,mm3,rare,u
-Torrential Gearhulk,,Artifact Creature - Construct,,kld,mythic,u
-Hullbreaker Horror,,Creature - Kraken Horror,,vow,rare,u
-Murktide Regent,,Creature - Dragon,,mh2,mythic,u
-"Narset, Parter of Veils",3,Legendary Planeswalker - Narset,U,war,uncommon,u
-"Jace, the Mind Sculptor",4,Legendary Planeswalker - Jace,U,wwk,mythic,u
-Ancestral Recall,1,Instant,U,vma,bonus,u
-Brainstorm,1,Instant,U,c18,uncommon,u
-Consider,1,Instant,U,dbl,common,u
-High Tide,1,Instant,U,vma,uncommon,u
-Mystical Tutor,1,Instant,U,ema,rare,u
-Spell Pierce,1,Instant,U,xln,common,u
-Brain Freeze,2,Instant,U,vma,uncommon,u
-Counterspell,2,Instant,U,ema,common,u
-Daze,2,Instant,U,jvc,common,u
-Flash,,Instant,,mir,rare,u
-Mana Drain,2,Instant,U,ima,mythic,u
-Mana Leak,2,Instant,U,ima,common,u
-Miscalculation,2,Instant,U,ulg,common,u
-Remand,2,Instant,U,mm2,uncommon,u
-Snap,,Instant,,ulg,common,u
-Force of Negation,3,Instant,U,mh1,rare,u
-Frantic Search,3,Instant,U,uma,common,u
-Thirst for Discovery,3,Instant,U,vow,uncommon,u
-Cryptic Command,4,Instant,U,ima,rare,u
-Fact or Fiction,4,Instant,U,mh1,uncommon,u
-Paradoxical Outcome,,Instant,,kld,rare,u
-Turnabout,4,Instant,U,vma,uncommon,u
-Force of Will,5,Instant,U,all,uncommon,u
-Mystic Confluence,5,Instant,U,tsr,special,u
-Dig Through Time,8,Instant,U,uma,rare,u
-Gitaxian Probe,1,Sorcery,U,nph,common,u
-Hard Evidence,,Sorcery,,mh2,common,u
-Ponder,1,Sorcery,U,c18,common,u
-Preordain,1,Sorcery,U,c15,common,u
-Chart a Course,2,Sorcery,U,xln,uncommon,u
-Time Walk,2,Sorcery,U,vma,bonus,u
-Timetwister,3,Sorcery,U,vma,bonus,u
-Tinker,3,Sorcery,U,ulg,uncommon,u
-Lórien Revealed,,Sorcery,,ltr,common,u
-Time Warp,5,Sorcery,U,e02,mythic,u
-Echo of Eons,6,Sorcery,U,mh1,mythic,u
-Mind's Desire,6,Sorcery,U,dds,rare,u
-Time Spiral,6,Sorcery,U,usg,rare,u
-Upheaval,6,Sorcery,U,ody,rare,u
-Treasure Cruise,8,Sorcery,U,uma,common,u
-Mox Sapphire,,Artifact,U,vma,bonus,u
-Seal of Removal,,Enchantment,,nem,common,u
-Opposition,4,Enchantment,U,uds,rare,u
-Dream Halls,,Enchantment,,sth,rare,u
-Treachery,5,Enchantment - Aura,U,uds,rare,u
-Shark Typhoon,6,Enchantment,U,iko,rare,u
-Concealing Curtains,,Creature - Wall,,vow,rare,b
-Evolved Sleeper,,Creature - Human,,dmu,rare,b
-Putrid Imp,1,Creature - Zombie Imp,B,vma,common,b
-Dark Confidant,2,Creature - Human Wizard,B,mm2,mythic,b
-Dauthi Voidwalker,2,Creature - Dauthi Rogue,B,mh2,rare,b
-"Jadar, Ghoulcaller of Nephalia",,Legendary Creature - Human Wizard,,mid,rare,b
-Kitesail Freebooter,,Creature - Human Pirate,,xln,uncommon,b
-Misery's Shadow,,Creature - Shade,,bro,rare,b
-Oona's Prowler,2,Creature - Faerie Rogue,B,lrw,rare,b
-Orcish Bowmasters,,Creature - Orc Archer,,ltr,rare,b
-Tenacious Underdog,,Creature - Human Warrior,,snc,rare,b
-Vampire Hexmage,2,Creature - Vampire Shaman,B,c14,uncommon,b
-"Gix, Yawgmoth Praetor",,Legendary Creature - Phyrexian Praetor,,bro,mythic,b
-Graveyard Trespasser,3,Creature - Human Werewolf,B,dbl,rare,b
-Murderous Rider,3,Creature - Zombie Knight ,B,eld,rare,b
-Ophiomancer,3,Creature - Human Shaman,B,c13,rare,b
-Grief,4,Creature - Elemental Incarnation,B,mh2,mythic,b
-"Rankle, Master of Pranks",,Legendary Creature - Faerie Rogue,,eld,mythic,b
-"Sheoldred, the Apocalypse",4,Legendary Creature - Phyrexian Praetor,B,dmu,mythic,b
-"Yawgmoth, Thran Physician",,Legendary Creature - Human Cleric,,mh1,mythic,b
-Custodi Lich,5,Creature - Zombie Cleric,B,cn2,rare,b
-Grave Titan,6,Creature - Giant,B,m11,mythic,b
-Massacre Wurm,,Creature - Phyrexian Wurm,,mbs,mythic,b
-Troll of Khazad-dûm,,Creature - Troll,,ltr,common,b
-Phyrexian Fleshgorger,,Artifact Creature - Phyrexian Wurm,,bro,mythic,b
-Archon of Cruelty,8,Creature - Archon,B,mh2,mythic,b
-Griselbrand,8,Legendary Creature - Demon,B,mm3,mythic,b
-Liliana of the Veil,3,Legendary Planeswalker - Liliana,B,uma,mythic,b
-"Liliana, the Last Hope",3,Legendary Planeswalker - Liliana,B,med,mythic,b
-Dark Ritual,1,Instant,B,a25,common,b
-Entomb,1,Instant,B,uma,rare,b
-Fatal Push,1,Instant,B,aer,uncommon,b
-Vampiric Tutor,1,Instant,B,j18,rare,b
-Cabal Ritual,2,Instant,B,v16,mythic,b
-Infernal Grasp,2,Instant,B,mid,uncommon,b
-Shallow Grave,2,Instant,B,mir,rare,b
-Sheoldred's Edict,,Instant,,one,uncommon,b
-Corpse Dance,,Instant,,tmp,rare,b
-Dismember,3,Instant,B,mm2,uncommon,b
-Baleful Mastery,,Instant,,stx,rare,b
-Snuff Out,4,Instant,B,mmq,common,b
-Bloodchief's Thirst,1,Sorcery,B,znr,uncommon,b
-Bone Shards,1,Sorcery,B,mh2,common,b
-Duress,1,Sorcery,B,m20,common,b
-Imperial Seal,1,Sorcery,B,me2,rare,b
-Inquisition of Kozilek,1,Sorcery,B,mm3,uncommon,b
-Mind Twist,1,Sorcery,B,prm,rare,b
-Reanimate,1,Sorcery,B,uma,rare,b
-Thoughtseize,1,Sorcery,B,ima,rare,b
-Collective Brutality,2,Sorcery,B,emn,rare,b
-Demonic Tutor,2,Sorcery,B,uma,rare,b
-Exhume,2,Sorcery,B,pd3,common,b
-Hymn to Tourach,2,Sorcery,B,ema,uncommon,b
-Night's Whisper,2,Sorcery,B,ema,common,b
-Toxic Deluge,3,Sorcery,B,ema,rare,b
-Yawgmoth's Will,3,Sorcery,B,vma,mythic,b
-Damnation,4,Sorcery,B,mm3,rare,b
-Tendrils of Agony,4,Sorcery,B,vma,uncommon,b
-Mox Jet,,Artifact,B,vma,bonus,b
-Wishclaw Talisman,2,Artifact,B,eld,rare,b
-Bolas's Citadel,6,Legendary Artifact,B,war,rare,b
-Animate Dead,2,Enchantment - Aura,B,ema,uncommon,b
-Bitterblossom,2,Tribal Enchantment - Faerie,B,uma,mythic,b
-Call of the Ring,,Enchantment,,ltr,rare,b
-Necromancy,3,Enchantment,B,vis,uncommon,b
-Recurring Nightmare,3,Enchantment,B,tpr,mythic,b
-Bomat Courier,1,Artifact Creature - Construct,R,kld,rare,r
-Dragon's Rage Channeler,,Creature - Human Shaman,,mh2,uncommon,r
-Goblin Guide,1,Creature - Goblin Scout,R,mm3,rare,r
-Goblin Welder,1,Creature - Goblin Artificer,R,cm2,rare,r
-Grim Lavamancer,1,Creature - Human Wizard,R,e01,rare,r
-Monastery Swiftspear,1,Creature - Human Monk,R,ima,uncommon,r
-Rabbit Battery,,Artifact Creature - Equipment Rabbit,,neo,uncommon,r
-"Ragavan, Nimble Pilferer",1,Legendary Creature - Monkey Pirate,R,mh2,mythic,r
-Dire Fleet Daredevil,2,Creature - Human Pirate,R,rix,rare,r
-Embereth Shieldbreaker,2,Creature - Human Knight ,R,eld,uncommon,r
-"Kari Zev, Skyship Raider",,Legendary Creature - Human Pirate,,aer,rare,r
-"Magda, Brazen Outlaw",2,Legendary Creature - Dwarf Berserker,R,khm,rare,r
-Robber of the Rich,,Creature - Human Archer Rogue,,eld,mythic,r
-Runaway Steam-Kin,2,Creature - Elemental,R,pgrn,rare,r
-Scrapwork Mutt,,Artifact Creature - Dog,,bro,common,r
-Bonecrusher Giant,3,Creature - Giant,R,eld,rare,r
-Goblin Rabblemaster,3,Creature - Goblin Warrior,R,ddt,rare,r
-Imperial Recruiter,3,Creature - Human Advisor,R,a25,mythic,r
-"Laelia, the Blade Reforged",,Legendary Creature - Spirit Warrior,,c21,rare,r
-Seasoned Pyromancer,3,Creature - Human Shaman,R,mh1,mythic,r
-"Squee, Dubious Monarch",,Legendary Creature - Goblin Noble,,dmu,rare,r
-Hellrider,4,Creature - Devil,R,mm3,rare,r
-Pia and Kiran Nalaar,,Legendary Creature - Human Artificer,,ori,rare,r
-Rampaging Raptor,,Creature - Dinosaur,,mom,rare,r
-Fury,5,Creature - Elemental Incarnation,R,mh2,mythic,r
-Glorybringer,5,Creature - Dragon,R,akh,rare,r
-Goldspan Dragon,,Creature - Dragon,,khm,mythic,r
-"Kiki-Jiki, Mirror Breaker",5,Legendary Creature - Goblin Shaman,R,ima,mythic,r
-Thundermaw Hellkite,,Creature - Dragon,,m13,mythic,r
-Zealous Conscripts,5,Creature - Human Warrior,R,mm3,rare,r
-Inferno Titan,6,Creature - Giant,R,cm2,mythic,r
-Oliphaunt,,Creature - Elephant,,ltr,common,r
-"Chandra, Torch of Defiance",4,Legendary Planeswalker - Chandra,R,kld,mythic,r
-"Daretti, Scrap Savant",4,Legendary Planeswalker - Daretti,R,cm2,mythic,r
-Burst Lightning,1,Instant,R,mm2,common,r
-Lightning Bolt,1,Instant,R,a25,uncommon,r
-Abrade,2,Instant,R,hou,uncommon,r
-Desperate Ritual,2,Instant - Arcane,R,uma,uncommon,r
-Incinerate,2,Instant,R,jvc,common,r
-Pyretic Ritual,2,Instant,R,m11,common,r
-Char,3,Instant,R,gk1,rare,r
-Seething Song,3,Instant,R,ddg,common,r
-Mine Collapse,,Instant,,mh2,common,r
-Through the Breach,5,Instant - Arcane,R,uma,rare,r
-Fireblast,6,Instant,R,vma,uncommon,r
-Chain Lightning,1,Sorcery,R,bbd,uncommon,r
-Faithless Looting,1,Sorcery,R,uma,common,r
-Firebolt,,Sorcery,,ody,common,r
-Arc Trail,,Sorcery,,som,uncommon,r
-Mizzium Mortars,2,Sorcery,R,mm3,rare,r
-Light Up the Stage,3,Sorcery,R,rna,uncommon,r
-Nahiri's Warcrafting,,Sorcery,,mom,rare,r
-Wheel of Fortune,3,Sorcery,R,vma,mythic,r
-Fiery Confluence,,Sorcery,,c15,rare,r
-Mizzix's Mastery,,Sorcery,,c15,rare,r
-Mox Ruby,,Artifact,R,vma,bonus,r
-Kumano Faces Kakkazan,,Enchantment - Saga,,neo,uncommon,r
-Bitter Reunion,,Enchantment,,bro,common,r
-Underworld Breach,2,Enchantment,R,thb,rare,r
-Fable of the Mirror-Breaker,3,Enchantment - Saga,R,neo,rare,r
-Mana Flare,3,Enchantment,R,prm,rare,r
-Sulfuric Vortex,3,Enchantment,R,ema,rare,r
-Sneak Attack,4,Enchantment,R,ema,mythic,r
-Splinter Twin,4,Enchantment - Aura,R,mm2,rare,r
-Arbor Elf,1,Creature - Elf Druid,G,a25,common,g
-Birds of Paradise,1,Creature - Bird,G,gk2,rare,g
-Delighted Halfling,,Creature - Halfling Citizen,,ltr,rare,g
-Elvish Mystic,1,Creature - Elf Druid,G,ddu,common,g
-Elvish Reclaimer,1,Creature - Elf Warrior,G,m20,rare,g
-Hexdrinker,1,Creature - Snake,G,mh1,mythic,g
-Joraga Treespeaker,1,Creature - Elf Druid,G,roe,uncommon,g
-Llanowar Elves,1,Creature - Elf Druid,G,gnt,common,g
-Sylvan Safekeeper,,Creature - Human Wizard,,jud,rare,g
-Deeproot Wayfinder,,Creature - Merfolk Scout,,mom,rare,g
-Devoted Druid,2,Creature - Elf Druid,G,uma,uncommon,g
-Outland Liberator,,Creature - Human Werewolf,,mid,uncommon,g
-"Rofellos, Llanowar Emissary",2,Legendary Creature - Elf Druid,G,vma,rare,g
-Sakura-Tribe Elder,2,Creature - Snake Shaman,G,c18,common,g
-Scavenging Ooze,2,Creature - Ooze,G,cm2,rare,g
-Sylvan Caryatid,2,Creature - Plant,G,ths,rare,g
-Wall of Roots,2,Creature - Plant Wall,G,ima,common,g
-Augur of Autumn,3,Creature - Human Druid,G,mid,rare,g
-Courser of Kruphix,3,Enchantment Creature - Centaur,G,a25,rare,g
-Endurance,3,Creature - Elemental Incarnation,G,mh2,mythic,g
-Eternal Witness,3,Creature - Human Shaman,G,uma,uncommon,g
-Ramunap Excavator,3,Creature - Naga Cleric,G,hou,rare,g
-Reclamation Sage,3,Creature - Elf Shaman,G,c18,uncommon,g
-Tireless Tracker,3,Creature - Human Scout,G,soi,rare,g
-Oracle of Mul Daya,4,Creature - Elf Shaman,G,zen,rare,g
-Questing Beast,4,Legendary Creature - Beast,G,eld,mythic,g
-Ulvenwald Oddity,,Creature - Beast,,vow,rare,g
-Deep Forest Hermit,,Creature - Elf Druid,,mh1,rare,g
-Deranged Hermit,5,Creature - Elf,G,vma,rare,g
-Elder Gargaroth,,Creature - Beast,,m21,mythic,g
-"Thrun, Breaker of Silence",,Legendary Creature - Troll Shaman,,one,rare,g
-"Titania, Protector of Argoth",,Legendary Creature - Elemental,,c14,mythic,g
-Workshop Warchief,,Creature - Rhino Warrior,,snc,rare,g
-"Kogla, the Titan Ape",6,Legendary Creature - Ape,G,iko,rare,g
-Primeval Titan,6,Creature - Giant,G,ima,mythic,g
-Hornet Queen,7,Creature - Insect,G,m15,rare,g
-Titan of Industry,,Creature - Elemental,,snc,mythic,g
-Craterhoof Behemoth,8,Creature - Beast,G,mm3,mythic,g
-Woodfall Primus,8,Creature - Treefolk Shaman,G,uma,rare,g
-Worldspine Wurm,,Creature - Wurm,,rtr,mythic,g
-Wrenn and Realmbreaker,,Legendary Planeswalker - Wrenn,,mom,mythic,g
-Garruk Wildspeaker,4,Legendary Planeswalker - Garruk,G,gvl,mythic,g
-"Nissa, Who Shakes the World",5,Legendary Planeswalker - Nissa,G,war,rare,g
-"Nissa, Ascended Animist",,Legendary Planeswalker - Nissa,,one,mythic,g
-Crop Rotation,1,Instant,G,ddr,common,g
-Force of Vigor,,Instant,,mh1,rare,g
-Green Sun's Zenith,1,Sorcery,G,ema,rare,g
-Pest Infestation,1,Sorcery,G,c21,rare,g
-Channel,2,Sorcery,G,ima,mythic,g
-Finale of Devastation,2,Sorcery,G,war,mythic,g
-Life from the Loam,,Sorcery,,rav,rare,g
-Regrowth,2,Sorcery,G,mh1,uncommon,g
-Natural Order,4,Sorcery,G,ema,mythic,g
-Mox Emerald,,Artifact,G,vma,bonus,g
-Birthing Pod,4,Artifact,G,nph,rare,g
-Esika's Chariot,,Legendary Artifact - Vehicle,,khm,rare,g
-Exploration,,Enchantment,,usg,rare,g
-Fastbond,1,Enchantment,G,vma,mythic,g
-Utopia Sprawl,1,Enchantment - Aura,G,a25,uncommon,g
-Oath of Druids,2,Enchantment,G,c16,rare,g
-Survival of the Fittest,2,Enchantment,G,tpr,mythic,g
-Sylvan Library,2,Enchantment,G,ema,rare,g
-Invasion of Ikoria,,Battle - Siege,,mom,rare,g
-Talisman of Progress,,Artifact,,mrd,uncommon,m
-Soulherder,,Creature - Spirit,,mh1,uncommon,m
-"Teferi, Time Raveler",3,Legendary Planeswalker - Teferi,UW,war,rare,m
-"Urza, Lord Protector",,Legendary Creature - Human Artificer,,bro,mythic,m
-Fractured Identity,5,Sorcery,UW,c17,rare,m
-"Teferi, Hero of Dominaria",5,Legendary Planeswalker - Teferi,WU,dom,mythic,m
-Baleful Strix,2,Artifact Creature - Bird,BU,e01,uncommon,m
-"Rona, Herald of Invasion",,Legendary Creature - Human Wizard,,mom,rare,m
-Talisman of Dominance,,Artifact,,mrd,uncommon,m
-Thief of Sanity,,Creature - Specter,,grn,rare,m
-Ertai Resurrected,,Legendary Creature - Phyrexian Human Wizard,,dmu,rare,m
-Fallen Shinobi,,Creature - Zombie Ninja,,mh1,rare,m
-The Scarab God,5,Legendary Creature - God,BU,hou,mythic,m
-Bloodtithe Harvester,,Creature - Vampire,,vow,uncommon,m
-"Kroxa, Titan of Death's Hunger",,Legendary Creature - Elder Giant,,thb,mythic,m
-Talisman of Indulgence,,Artifact,,mrd,uncommon,m
-"Daretti, Ingenious Iconoclast",3,Legendary Planeswalker - Daretti,BR,pz2,mythic,m
-Fire Covenant,,Instant,,ice,uncommon,m
-Kolaghan's Command,3,Instant,BR,dtk,rare,m
-Orcish Lumberjack,,Creature - Orc,,ice,common,m
-Manamorphose,2,Instant,GR,mma,uncommon,m
-Talisman of Impulse,,Artifact,,mrd,uncommon,m
-Wrenn and Six,2,Legendary Planeswalker - Wrenn,GR,mh1,mythic,m
-"Minsc & Boo, Timeless Heroes",4,Legendary Planeswalker - Minsc,GR,clb,mythic,m
-Escape to the Wilds,5,Sorcery,GR,eld,rare,m
-Kogla and Yidaro,,Legendary Creature - Ape Dinosaur Turtle,,mom,rare,m
-"Etali, Primal Conqueror",,Legendary Creature - Elder Dinosaur,,mom,rare,m
-Talisman of Unity,,Artifact,,mrd,uncommon,m
-Voice of Resurgence,,Creature - Elemental,,dgm,mythic,m
-Kitchen Finks,3,Creature - Ouphe,WG,uma,uncommon,m
-Knight of Autumn,3,Creature - Dryad Knight,GW,pgrn,rare,m
-Knight of the Reliquary,3,Creature - Human Knight,GW,ima,rare,m
-"Sigarda, Font of Blessings",,Legendary Creature - Angel,,mat,rare,m
-Damn,2,Sorcery,BW,mh2,rare,m
-Talisman of Hierarchy,,Artifact,,mh1,uncommon,m
-Tidehollow Sculler,2,Artifact Creature - Zombie,WB,ala,uncommon,m
-Lingering Souls,3,Sorcery,BW,tsr,special,m
-Lurrus of the Dream-Den,3,Legendary Creature - Cat Nightmare,BW,iko,rare,m
-Vindicate,3,Sorcery,BW,a25,rare,m
-Ashen Rider,8,Creature - Archon,BW,ths,mythic,m
-Expressive Iteration,2,Sorcery,RU,stx,uncommon,m
-Talisman of Creativity,,Artifact,,mh1,uncommon,m
-Third Path Iconoclast,,Creature - Human Monk,,bro,uncommon,m
-Dack Fayden,3,Legendary Planeswalker - Dack,UR,ema,mythic,m
-"Saheeli, Sublime Artificer",,Legendary Planeswalker - Saheeli,,war,uncommon,m
-Magma Opus,,Instant,,stx,mythic,m
-Assassin's Trophy,,Instant,,grn,rare,m
-Fiend Artisan,2,Creature - Nightmare,BG,iko,mythic,m
-Talisman of Resilience,,Artifact,,mh1,uncommon,m
-Tear Asunder,,Instant,,dmu,uncommon,m
-"Grist, the Hunger Tide",3,Legendary Planeswalker - Grist,BG,mh2,mythic,m
-Life // Death,,Sorcery,,apc,uncommon,m
-"Vraska, Golgari Queen",4,Legendary Planeswalker - Vraska,BG,med,mythic,m
-Figure of Destiny,1,Creature - Kithkin,RW,ddl,rare,m
-Forth Eorlingas!,,Sorcery,,ltc,rare,m
-Talisman of Conviction,,Artifact,,mh1,uncommon,m
-"Zirda, the Dawnwaker",,Legendary Creature - Elemental Fox,,iko,rare,m
-Showdown of the Skalds,4,Enchantment - Saga,RW,khm,rare,m
-"Otharri, Suns' Glory",,Legendary Creature - Phoenix,,onc,mythic,m
-"Kinnan, Bonder Prodigy",,Legendary Creature - Human Druid,,iko,mythic,m
-Suspicious Stowaway,2,Creature - Human Rogue Werewolf,GU,mid,rare,m
-Talisman of Curiosity,,Artifact,,mh1,uncommon,m
-"Oko, Thief of Crowns",3,Legendary Planeswalker - Oko,GU,eld,mythic,m
-"Uro, Titan of Nature's Wrath",3,Legendary Creature - Elder Giant,GU,thb,mythic,m
-Sail into the West,,Instant,,ltc,rare,m
-"Tamiyo, Collector of Tales",,Legendary Planeswalker - Tamiyo,,war,rare,m
-Noble Hierarch,1,Creature - Human Druid,WUG,uma,rare,m
-Sphinx of the Steel Wind,8,Artifact Creature - Sphinx,BUW,ema,mythic,m
-Cruel Ultimatum,,Sorcery,,ala,rare,m
-Ignoble Hierarch,1,Creature - Goblin Shaman,BGR,mh2,rare,m
-Inspired Ultimatum,,Sorcery,,iko,rare,m
-"Leovold, Emissary of Trest",3,Legendary Creature - Elf Advisor,BGU,cn2,mythic,m
-"Atraxa, Grand Unifier",,Legendary Creature - Phyrexian Angel,,one,mythic,m
-"Omnath, Locus of Creation",4,Legendary Creature - Elemental,WUBRG,znr,mythic,m
-"Golos, Tireless Pilgrim",5,Legendary Artifact Creature - Scout,BGRUW,m20,rare,m
-"Kenrith, the Returned King",,Legendary Creature - Human Noble,,eld,mythic,m
-Hangarback Walker,,Artifact Creature - Construct,,ori,rare,c
-Walking Ballista,,Artifact Creature - Construct,,aer,rare,c
-Phyrexian Revoker,2,Artifact Creature - Horror,,m15,rare,c
-Solemn Simulacrum,,Artifact Creature - Golem,,mrd,rare,c
-Wurmcoil Engine,6,Artifact Creature - Wurm,,cm2,mythic,c
-Myr Battlesphere,7,Artifact Creature - Myr Construct,,c18,rare,c
-Blightsteel Colossus,12,Artifact Creature - Golem,,mbs,mythic,c
-"Emrakul, the Aeons Torn",15,Legendary Creature - Eldrazi,,uma,mythic,c
-Sundering Titan,8,Artifact Creature - Golem,,a25,rare,c
-Triplicate Titan,,Artifact Creature - Golem,,c21,rare,c
-"Ulamog, the Ceaseless Hunger",10,Legendary Creature - Eldrazi,,bfz,mythic,c
-"Ulamog, the Infinite Gyre",11,Legendary Creature - Eldrazi,,uma,mythic,c
-"Karn, Scion of Urza",4,Legendary Planeswalker - Karn,,dom,mythic,c
-"Ugin, the Spirit Dragon",8,Legendary Planeswalker - Ugin,,frf,mythic,c
-Black Lotus,,Artifact,,vma,bonus,c
-Chrome Mox,,Artifact,,mrd,rare,c
-Everflowing Chalice,,Artifact,,cm2,uncommon,c
-Lion's Eye Diamond,,Artifact,,vma,mythic,c
-Lotus Petal,,Artifact,,tmp,common,c
-Mana Crypt,,Artifact,,vma,mythic,c
-Mishra's Bauble,,Artifact,,2xm,uncommon,c
-Mox Diamond,,Artifact,,tpr,mythic,c
-Mox Opal,,Legendary Artifact,,som,mythic,c
-Zuran Orb,,Artifact,,ice,uncommon,c
-Candelabra of Tawnos,,Artifact,,atq,rare,c
-Mana Vault,1,Artifact,,uma,mythic,c
-Relic of Progenitus,1,Artifact,,ema,uncommon,c
-Retrofitter Foundry,,Artifact,,c18,rare,c
-Sensei's Divining Top,1,Artifact,,ema,rare,c
-Skullclamp,1,Artifact - Equipment,,c17,uncommon,c
-Sol Ring,1,Artifact,,c18,uncommon,c
-Agatha's Soul Cauldron,,Legendary Artifact,,woe,mythic,c
-Grim Monolith,2,Artifact,,ulg,rare,c
-Helm of Awakening,,Artifact,,vis,uncommon,c
-Lightning Greaves,,Artifact - Equipment,,mrd,uncommon,c
-Pentad Prism,,Artifact,,5dn,common,c
-Smuggler's Copter,2,Artifact - Vehicle,,kld,rare,c
-Umezawa's Jitte,2,Legendary Artifact - Equipment,,v16,mythic,c
-"Andúril, Flame of the West",,Legendary Artifact - Equipment,,ltr,mythic,c
-Basalt Monolith,3,Artifact,,cm2,uncommon,c
-Coalition Relic,3,Artifact,,a25,rare,c
-Crucible of Worlds,3,Artifact,,pm19,mythic,c
-Mirage Mirror,,Artifact,,hou,rare,c
-Palantír of Orthanc,,Legendary Artifact,,ltr,mythic,c
-Aetherflux Reservoir,,Artifact,,kld,rare,c
-Mystic Forge,,Artifact,,m20,rare,c
-The One Ring,,Legendary Artifact,,ltr,mythic,c
-Thran Dynamo,4,Artifact,,ima,uncommon,c
-Batterskull,5,Artifact - Equipment,,nph,mythic,c
-Memory Jar,5,Artifact,,vma,mythic,c
-The Mightstone and Weakstone,,Legendary Artifact - Powerstone,,bro,rare,c
-Mindslaver,6,Legendary Artifact,,som,mythic,c
-Kaldra Compleat,,Legendary Artifact - Equipment,,mh2,mythic,c
-Portal to Phyrexia,,Artifact,,bro,mythic,c
-Celestial Colonnade,,Land,WU,uma,rare,l
-Hallowed Fountain,,Land - Plains Island,WU,rna,rare,l
-Seachrome Coast,,Land,UW,som,rare,l
-Tundra,,Land - Plains Island,WU,vma,rare,l
-Creeping Tar Pit,,Land,,wwk,rare,l
-Darkslick Shores,,Land,BU,som,rare,l
-Underground Sea,,Land - Island Swamp,UB,vma,rare,l
-Watery Grave,,Land - Island Swamp,UB,grn,rare,l
-Badlands,,Land - Swamp Mountain,BR,vma,rare,l
-Blackcleave Cliffs,,Land,BR,som,rare,l
-Blood Crypt,,Land - Swamp Mountain,BR,rna,rare,l
-Graven Cairns,,Land,,fut,rare,l
-Copperline Gorge,,Land,GR,som,rare,l
-Raging Ravine,,Land,,wwk,rare,l
-Stomping Ground,,Land - Mountain Forest,RG,rna,rare,l
-Taiga,,Land - Mountain Forest,RG,vma,rare,l
-Horizon Canopy,,Land,GW,zne,mythic,l
-Razorverge Thicket,,Land,GW,som,rare,l
-Savannah,,Land - Forest Plains,WG,vma,rare,l
-Temple Garden,,Land - Forest Plains,WG,grn,rare,l
-Concealed Courtyard,,Land,BW,kld,rare,l
-Godless Shrine,,Land - Plains Swamp,WB,rna,rare,l
-Scrubland,,Land - Plains Swamp,WB,vma,rare,l
-Silent Clearing,,Land,BW,mh1,rare,l
-Fiery Islet,,Land,RU,mh1,rare,l
-Spirebluff Canal,,Land,RU,kld,rare,l
-Steam Vents,,Land - Island Mountain,UR,grn,rare,l
-Volcanic Island,,Land - Island Mountain,UR,vma,rare,l
-Bayou,,Land - Swamp Forest,BG,vma,rare,l
-Blooming Marsh,,Land,BG,kld,rare,l
-Nurturing Peatland,,Land,BG,mh1,rare,l
-Overgrown Tomb,,Land - Swamp Forest,BG,grn,rare,l
-Inspiring Vantage,,Land,RW,kld,rare,l
-Plateau,,Land - Mountain Plains,WR,vma,rare,l
-Sacred Foundry,,Land - Mountain Plains,WR,grn,rare,l
-Sunbaked Canyon,,Land,RW,mh1,rare,l
-Botanical Sanctum,,Land,GU,kld,rare,l
-Breeding Pool,,Land - Forest Island,UG,rna,rare,l
-Tropical Island,,Land - Forest Island,GU,vma,rare,l
-Waterlogged Grove,,Land,GU,mh1,rare,l
-Spara's Headquarters,,Land - Forest Plains Island,GUW,snc,rare,l
-Raffine's Tower,,Land - Plains Island Swamp,BUW,snc,rare,l
-Xander's Lounge,,Land - Island Swamp Mountain,BRU,snc,rare,l
-Ziatora's Proving Ground,,Land - Swamp Mountain Forest,BGR,snc,rare,l
-Jetmir's Garden,,Land - Mountain Forest Plains,GRW,snc,rare,l
-Savai Triome,,Land - Mountain Plains Swamp,BRW,iko,rare,l
-Ketria Triome,,Land - Forest Island Mountain,GRU,iko,rare,l
-Indatha Triome,,Land - Plains Swamp Forest,BGW,iko,rare,l
-Raugrin Triome,,Land - Island Mountain Plains,RUW,iko,rare,l
-Zagoth Triome,,Land - Swamp Forest Island,BGU,iko,rare,l
-Ancient Tomb,,Land,,uma,rare,l
-Arid Mesa,,Land,,mm3,rare,l
-Bazaar of Baghdad,,Land,,vma,mythic,l
-Bloodstained Mire,,Land,,ktk,rare,l
-"Boseiju, Who Endures",,Legendary Land,G,neo,rare,l
-City of Traitors,,Land,,exo,rare,l
-Dark Depths,,Legendary Snow Land,,2xm,mythic,l
-Field of the Dead,,Land,,m20,rare,l
-Flooded Strand,,Land,,ktk,rare,l
-Gaea's Cradle,,Legendary Land,G,usg,rare,l
-Karakas,,Legendary Land,W,uma,mythic,l
-Library of Alexandria,,Land,,vma,mythic,l
-Mana Confluence,,Land,,jou,rare,l
-Marsh Flats,,Land,,mm3,rare,l
-Mishra's Factory,,Land,,a25,uncommon,l
-Mishra's Workshop,,Land,,vma,mythic,l
-Misty Rainforest,,Land,,mm3,rare,l
-Mutavault,,Land,,mor,rare,l
-"Otawara, Soaring City",,Legendary Land,,neo,rare,l
-Polluted Delta,,Land,,ktk,rare,l
-Prismatic Vista,,Land,,mh1,rare,l
-Scalding Tarn,,Land,,mm3,rare,l
-Strip Mine,,Land,,vma,rare,l
-Thespian's Stage,,Land,,uma,rare,l
-Tolarian Academy,,Legendary Land,U,vma,mythic,l
-"Urborg, Tomb of Yawgmoth",,Legendary Land,,plc,rare,l
-Urza's Saga,,Enchantment Land - Urza’s Saga,,mh2,rare,l
-Verdant Catacombs,,Land,,mm3,rare,l
-Wasteland,,Land,,ema,rare,l
-Windswept Heath,,Land,,ktk,rare,l
-Wooded Foothills,,Land,,ktk,rare,l
+name,CMC,Type,Type Expanded,Color,Set,Rarity,Color Category
+Esper Sentinel,1,Creature,Artifact Creature - Human Soldier,W,mh2,rare,w
+Giver of Runes,1,Creature,Creature - Kor Cleric,W,mh1,rare,w
+Mother of Runes,1,Creature,Creature - Human Cleric,W,ulg,uncommon,w
+Student of Warfare,1,Creature,Creature - Human Knight,W,roe,rare,w
+Thraben Inspector,1,Creature,Creature - Human Soldier,W,mb1,common,w
+Usher of the Fallen,1,Creature,Creature - Spirit Warrior,W,khm,uncommon,w
+Weathered Wayfarer,1,Creature,Creature - Human Nomad Cleric,W,ons,rare,w
+Adanto Vanguard,2,Creature,Creature - Vampire Soldier,W,xln,uncommon,w
+Cathar Commando,2,Creature,Creature - Human Soldier,W,mid,common,w
+Containment Priest,2,Creature,Creature - Human Cleric,W,uma,rare,w
+Intrepid Adversary,2,Creature,Creature - Human Scout,W,mid,mythic,w
+Leonin Relic-Warder,2,Creature,Creature - Cat Cleric,W,c17,uncommon,w
+Lion Sash,2,Creature,Artifact Creature - Equipment Cat,W,neo,rare,w
+Selfless Spirit,2,Creature,Creature - Spirit Cleric,W,emn,rare,w
+Stoneforge Mystic,2,Creature,Creature - Kor Artificer,W,wwk,rare,w
+"Thalia, Guardian of Thraben",2,Creature,Legendary Creature - Human Soldier,W,a25,rare,w
+Tithe Taker,2,Creature,Creature - Human Soldier,W,rna,rare,w
+Wall of Omens,2,Creature,Creature - Wall,W,ema,uncommon,w
+"Adeline, Resplendent Cathar",3,Creature,Legendary Creature - Human Knight,W,mid,rare,w
+Blade Splicer,3,Creature,Creature - Human Artificer,W,mm3,rare,w
+Elite Spellbinder,3,Creature,Creature - Human Cleric,W,stx,rare,w
+Flickerwisp,3,Creature,Creature - Elemental,W,e01,uncommon,w
+Loran of the Third Path,3,Creature,Legendary Creature - Human Artificer,W,bro,rare,w
+Monastery Mentor,3,Creature,Creature - Human Monk,W,frf,mythic,w
+Porcelain Legionnaire,3,Creature,Artifact Creature - Soldier,W,nph,common,w
+Recruiter of the Guard,3,Creature,Creature - Human Soldier,W,pz2,rare,w
+Skyclave Apparition,3,Creature,Creature - Kor Spirit,W,znr,rare,w
+Hero of Bladehold,4,Creature,Creature - Human Knight,W,mbs,mythic,w
+Palace Jailer,4,Creature,Creature - Human Soldier,W,cn2,uncommon,w
+Restoration Angel,4,Creature,Creature - Angel,W,ima,rare,w
+Serra Paragon,4,Creature,Creature - Angel,W,dmu,mythic,w
+Boon-Bringer Valkyrie,5,Creature,Creature - Angel Warrior,W,mom,rare,w
+Guardian Scalelord,5,Creature,Creature - Dragon,W,moc,rare,w
+Karmic Guide,5,Creature,Creature - Angel Spirit,W,ulg,rare,w
+Solitude,5,Creature,Creature - Elemental Incarnation,W,mh2,mythic,w
+Steel Seraph,6,Creature,Artifact Creature - Angel,W,bro,rare,w
+Sun Titan,6,Creature,Creature - Giant,W,m11,mythic,w
+"Elesh Norn, Grand Cenobite",7,Creature,Legendary Creature - Praetor,W,ima,mythic,w
+"Iona, Shield of Emeria",9,Creature,Legendary Creature - Angel,W,zen,mythic,w
+"Elspeth, Knight-Errant",4,Planeswalker,Legendary Planeswalker - Elspeth,W,ddf,mythic,w
+"Gideon, Ally of Zendikar",4,Planeswalker,Legendary Planeswalker - Gideon,W,bfz,mythic,w
+The Wandering Emperor,4,Planeswalker,Legendary Planeswalker,W,neo,mythic,w
+"Elspeth, Sun's Champion",6,Planeswalker,Legendary Planeswalker - Elspeth,W,ths,mythic,w
+Enlightened Tutor,1,Instant,Instant,W,mir,uncommon,w
+Ephemerate,1,Instant,Instant,W,mh1,common,w
+Path to Exile,1,Instant,Instant,W,cma,uncommon,w
+Swords to Plowshares,1,Instant,Instant,W,bbd,uncommon,w
+Reprieve,1,Instant,Instant,W,ltr,uncommon,w
+Unexpectedly Absent,2,Instant,Instant,W,c13,rare,w
+Oust,1,Sorcery,Sorcery,W,roe,uncommon,w
+Prismatic Ending,1,Sorcery,Sorcery,W,mh2,uncommon,w
+Balance,2,Sorcery,Sorcery,W,ema,mythic,w
+Winds of Abandon,2,Sorcery,Sorcery,W,plist,rare,w
+Council's Judgment,3,Sorcery,Sorcery,W,vma,rare,w
+Sevinne's Reclamation,5,Sorcery,Sorcery,W,c19,rare,w
+Armageddon,4,Sorcery,Sorcery,W,a25,mythic,w
+Wrath of God,4,Sorcery,Sorcery,W,ema,rare,w
+Spectral Procession,6,Sorcery,Sorcery,W,mm2,uncommon,w
+Mox Pearl,0,Artifact,Artifact,W,vma,bonus,w
+Glimmer Lens,2,Artifact,Artifact - Equipment,W,onc,rare,w
+Touch the Spirit Realm,3,Enchantment,Enchantment,W,neo,uncommon,w
+Parallax Wave,4,Enchantment,Enchantment,W,vma,rare,w
+Leyline Binding,6,Enchantment,Enchantment,W,dmu,rare,w
+"Baral, Chief of Compliance",2,Creature,Legendary Creature - Human Wizard,U,aer,rare,u
+Faerie Mastermind,2,Creature,Creature - Faerie Rogue,U,mom,rare,u
+"Jace, Vryn's Prodigy",2,Creature,Legendary Creature - Human Wizard ,U,v17,mythic,u
+Ledger Shredder,2,Creature,Creature - Bird Advisor,U,snc,rare,u
+Phantasmal Image,2,Creature,Creature - Illusion,U,mm3,rare,u
+Snapcaster Mage,2,Creature,Creature - Human Wizard,U,uma,mythic,u
+Thieving Skydiver,2,Creature,Creature - Merfolk Rogue,U,znr,rare,u
+Brazen Borrower,3,Creature,Creature - Faerie Rogue ,U,eld,mythic,u
+Chrome Host Seedshark,3,Creature,Creature - Phyrexian Shark,U,mom,rare,u
+Deceiver Exarch,3,Creature,Creature - Cleric,U,cma,uncommon,u
+"Emry, Lurker of the Loch",3,Creature,Legendary Creature - Merfolk Wizard,U,eld,rare,u
+Pestermite,3,Creature,Creature - Faerie Rogue,U,mma,common,u
+Spellseeker,3,Creature,Creature - Human Wizard,U,bbd,rare,u
+Svyelun of Sea and Sky,3,Creature,Legendary Creature - Merfolk God,U,mh2,mythic,u
+Trinket Mage,3,Creature,Creature - Human Wizard,U,ddu,common,u
+Vendilion Clique,3,Creature,Legendary Creature - Faerie Wizard,U,a25,mythic,u
+Displacer Kitten,4,Creature,Creature - Cat Beast,U,clb,rare,u
+Phyrexian Metamorph,4,Creature,Artifact Creature - Shapeshifter,U,nph,rare,u
+Sower of Temptation,4,Creature,Creature - Faerie Wizard,U,bbd,rare,u
+Subtlety,4,Creature,Creature - Elemental Incarnation,U,mh2,mythic,u
+"Urza, Lord High Artificer",4,Creature,Legendary Creature - Human Artificer,U,mh1,mythic,u
+"Venser, Shaper Savant",4,Creature,Legendary Creature - Human Wizard,U,mm3,rare,u
+Torrential Gearhulk,6,Creature,Artifact Creature - Construct,U,kld,mythic,u
+Hullbreaker Horror,7,Creature,Creature - Kraken Horror,U,vow,rare,u
+Murktide Regent,7,Creature,Creature - Dragon,U,mh2,mythic,u
+"Narset, Parter of Veils",3,Planeswalker,Legendary Planeswalker - Narset,U,war,uncommon,u
+"Jace, the Mind Sculptor",4,Planeswalker,Legendary Planeswalker - Jace,U,wwk,mythic,u
+Ancestral Recall,1,Instant,Instant,U,vma,bonus,u
+Brainstorm,1,Instant,Instant,U,c18,uncommon,u
+Consider,1,Instant,Instant,U,dbl,common,u
+High Tide,1,Instant,Instant,U,vma,uncommon,u
+Mystical Tutor,1,Instant,Instant,U,ema,rare,u
+Spell Pierce,1,Instant,Instant,U,xln,common,u
+Brain Freeze,2,Instant,Instant,U,vma,uncommon,u
+Counterspell,2,Instant,Instant,U,ema,common,u
+Daze,2,Instant,Instant,U,jvc,common,u
+Flash,2,Instant,Instant,U,mir,rare,u
+Mana Drain,2,Instant,Instant,U,ima,mythic,u
+Mana Leak,2,Instant,Instant,U,ima,common,u
+Miscalculation,2,Instant,Instant,U,ulg,common,u
+Remand,2,Instant,Instant,U,mm2,uncommon,u
+Snap,2,Instant,Instant,U,ulg,common,u
+Force of Negation,3,Instant,Instant,U,mh1,rare,u
+Frantic Search,3,Instant,Instant,U,uma,common,u
+Thirst for Discovery,3,Instant,Instant,U,vow,uncommon,u
+Cryptic Command,4,Instant,Instant,U,ima,rare,u
+Fact or Fiction,4,Instant,Instant,U,mh1,uncommon,u
+Paradoxical Outcome,4,Instant,Instant,U,kld,rare,u
+Turnabout,4,Instant,Instant,U,vma,uncommon,u
+Force of Will,5,Instant,Instant,U,all,uncommon,u
+Mystic Confluence,5,Instant,Instant,U,tsr,special,u
+Dig Through Time,8,Instant,Instant,U,uma,rare,u
+Gitaxian Probe,1,Sorcery,Sorcery,U,nph,common,u
+Hard Evidence,1,Sorcery,Sorcery,U,mh2,common,u
+Ponder,1,Sorcery,Sorcery,U,c18,common,u
+Preordain,1,Sorcery,Sorcery,U,c15,common,u
+Chart a Course,2,Sorcery,Sorcery,U,xln,uncommon,u
+Time Walk,2,Sorcery,Sorcery,U,vma,bonus,u
+Timetwister,3,Sorcery,Sorcery,U,vma,bonus,u
+Tinker,3,Sorcery,Sorcery,U,ulg,uncommon,u
+Lorien Revealed,5,Sorcery,Sorcery,U,ltr,common,u
+Time Warp,5,Sorcery,Sorcery,U,e02,mythic,u
+Echo of Eons,6,Sorcery,Sorcery,U,mh1,mythic,u
+Mind's Desire,6,Sorcery,Sorcery,U,dds,rare,u
+Time Spiral,6,Sorcery,Sorcery,U,usg,rare,u
+Upheaval,6,Sorcery,Sorcery,U,ody,rare,u
+Treasure Cruise,8,Sorcery,Sorcery,U,uma,common,u
+Mox Sapphire,0,Artifact,Artifact,U,vma,bonus,u
+Seal of Removal,1,Enchantment,Enchantment,U,nem,common,u
+Opposition,4,Enchantment,Enchantment,U,uds,rare,u
+Dream Halls,5,Enchantment,Enchantment,U,sth,rare,u
+Treachery,5,Enchantment,Enchantment - Aura,U,uds,rare,u
+Shark Typhoon,6,Enchantment,Enchantment,U,iko,rare,u
+Concealing Curtains,1,Creature,Creature - Wall,B,vow,rare,b
+Evolved Sleeper,1,Creature,Creature - Human,B,dmu,rare,b
+Putrid Imp,1,Creature,Creature - Zombie Imp,B,vma,common,b
+Dark Confidant,2,Creature,Creature - Human Wizard,B,mm2,mythic,b
+Dauthi Voidwalker,2,Creature,Creature - Dauthi Rogue,B,mh2,rare,b
+"Jadar, Ghoulcaller of Nephalia",2,Creature,Legendary Creature - Human Wizard,B,mid,rare,b
+Kitesail Freebooter,2,Creature,Creature - Human Pirate,B,xln,uncommon,b
+Misery's Shadow,2,Creature,Creature - Shade,B,bro,rare,b
+Oona's Prowler,2,Creature,Creature - Faerie Rogue,B,lrw,rare,b
+Orcish Bowmasters,2,Creature,Creature - Orc Archer,B,ltr,rare,b
+Tenacious Underdog,2,Creature,Creature - Human Warrior,B,snc,rare,b
+Vampire Hexmage,2,Creature,Creature - Vampire Shaman,B,c14,uncommon,b
+"Gix, Yawgmoth Praetor",3,Creature,Legendary Creature - Phyrexian Praetor,B,bro,mythic,b
+Graveyard Trespasser,3,Creature,Creature - Human Werewolf,B,dbl,rare,b
+Murderous Rider,3,Creature,Creature - Zombie Knight ,B,eld,rare,b
+Ophiomancer,3,Creature,Creature - Human Shaman,B,c13,rare,b
+Grief,4,Creature,Creature - Elemental Incarnation,B,mh2,mythic,b
+"Rankle, Master of Pranks",4,Creature,Legendary Creature - Faerie Rogue,B,eld,mythic,b
+"Sheoldred, the Apocalypse",4,Creature,Legendary Creature - Phyrexian Praetor,B,dmu,mythic,b
+"Yawgmoth, Thran Physician",4,Creature,Legendary Creature - Human Cleric,B,mh1,mythic,b
+Custodi Lich,5,Creature,Creature - Zombie Cleric,B,cn2,rare,b
+Grave Titan,6,Creature,Creature - Giant,B,m11,mythic,b
+Massacre Wurm,6,Creature,Creature - Phyrexian Wurm,B,mbs,mythic,b
+Troll of Khazad-dûm,6,Creature,Creature - Troll,B,ltr,common,b
+Phyrexian Fleshgorger,7,Creature,Artifact Creature - Phyrexian Wurm,B,bro,mythic,b
+Archon of Cruelty,8,Creature,Creature - Archon,B,mh2,mythic,b
+Griselbrand,8,Creature,Legendary Creature - Demon,B,mm3,mythic,b
+Liliana of the Veil,3,Planeswalker,Legendary Planeswalker - Liliana,B,uma,mythic,b
+"Liliana, the Last Hope",3,Planeswalker,Legendary Planeswalker - Liliana,B,med,mythic,b
+Dark Ritual,1,Instant,Instant,B,a25,common,b
+Entomb,1,Instant,Instant,B,uma,rare,b
+Fatal Push,1,Instant,Instant,B,aer,uncommon,b
+Vampiric Tutor,1,Instant,Instant,B,j18,rare,b
+Cabal Ritual,2,Instant,Instant,B,v16,mythic,b
+Infernal Grasp,2,Instant,Instant,B,mid,uncommon,b
+Shallow Grave,2,Instant,Instant,B,mir,rare,b
+Sheoldred's Edict,2,Instant,Instant,B,one,uncommon,b
+Corpse Dance,3,Instant,Instant,B,tmp,rare,b
+Dismember,3,Instant,Instant,B,mm2,uncommon,b
+Baleful Mastery,4,Instant,Instant,B,stx,rare,b
+Snuff Out,4,Instant,Instant,B,mmq,common,b
+Bloodchief's Thirst,1,Sorcery,Sorcery,B,znr,uncommon,b
+Bone Shards,1,Sorcery,Sorcery,B,mh2,common,b
+Duress,1,Sorcery,Sorcery,B,m20,common,b
+Imperial Seal,1,Sorcery,Sorcery,B,me2,rare,b
+Inquisition of Kozilek,1,Sorcery,Sorcery,B,mm3,uncommon,b
+Mind Twist,1,Sorcery,Sorcery,B,prm,rare,b
+Reanimate,1,Sorcery,Sorcery,B,uma,rare,b
+Thoughtseize,1,Sorcery,Sorcery,B,ima,rare,b
+Collective Brutality,2,Sorcery,Sorcery,B,emn,rare,b
+Demonic Tutor,2,Sorcery,Sorcery,B,uma,rare,b
+Exhume,2,Sorcery,Sorcery,B,pd3,common,b
+Hymn to Tourach,2,Sorcery,Sorcery,B,ema,uncommon,b
+Night's Whisper,2,Sorcery,Sorcery,B,ema,common,b
+Toxic Deluge,3,Sorcery,Sorcery,B,ema,rare,b
+Yawgmoth's Will,3,Sorcery,Sorcery,B,vma,mythic,b
+Damnation,4,Sorcery,Sorcery,B,mm3,rare,b
+Tendrils of Agony,4,Sorcery,Sorcery,B,vma,uncommon,b
+Mox Jet,0,Artifact,Artifact,B,vma,bonus,b
+Wishclaw Talisman,2,Artifact,Artifact,B,eld,rare,b
+Bolas's Citadel,6,Artifact,Legendary Artifact,B,war,rare,b
+Animate Dead,2,Enchantment,Enchantment - Aura,B,ema,uncommon,b
+Bitterblossom,2,Enchantment,Tribal Enchantment - Faerie,B,uma,mythic,b
+Call of the Ring,2,Enchantment,Enchantment,B,ltr,rare,b
+Necromancy,3,Enchantment,Enchantment,B,vis,uncommon,b
+Recurring Nightmare,3,Enchantment,Enchantment,B,tpr,mythic,b
+Bomat Courier,1,Creature,Artifact Creature - Construct,R,kld,rare,r
+Dragon's Rage Channeler,1,Creature,Creature - Human Shaman,R,mh2,uncommon,r
+Goblin Guide,1,Creature,Creature - Goblin Scout,R,mm3,rare,r
+Goblin Welder,1,Creature,Creature - Goblin Artificer,R,cm2,rare,r
+Grim Lavamancer,1,Creature,Creature - Human Wizard,R,e01,rare,r
+Monastery Swiftspear,1,Creature,Creature - Human Monk,R,ima,uncommon,r
+Rabbit Battery,1,Creature,Artifact Creature - Equipment Rabbit,R,neo,uncommon,r
+"Ragavan, Nimble Pilferer",1,Creature,Legendary Creature - Monkey Pirate,R,mh2,mythic,r
+Dire Fleet Daredevil,2,Creature,Creature - Human Pirate,R,rix,rare,r
+Embereth Shieldbreaker,2,Creature,Creature - Human Knight ,R,eld,uncommon,r
+"Kari Zev, Skyship Raider",2,Creature,Legendary Creature - Human Pirate,R,aer,rare,r
+"Magda, Brazen Outlaw",2,Creature,Legendary Creature - Dwarf Berserker,R,khm,rare,r
+Robber of the Rich,2,Creature,Creature - Human Archer Rogue,R,eld,mythic,r
+Runaway Steam-Kin,2,Creature,Creature - Elemental,R,pgrn,rare,r
+Scrapwork Mutt,2,Creature,Artifact Creature - Dog,R,bro,common,r
+Bonecrusher Giant,3,Creature,Creature - Giant,R,eld,rare,r
+Goblin Rabblemaster,3,Creature,Creature - Goblin Warrior,R,ddt,rare,r
+Imperial Recruiter,3,Creature,Creature - Human Advisor,R,a25,mythic,r
+"Laelia, the Blade Reforged",3,Creature,Legendary Creature - Spirit Warrior,R,c21,rare,r
+Seasoned Pyromancer,3,Creature,Creature - Human Shaman,R,mh1,mythic,r
+"Squee, Dubious Monarch",3,Creature,Legendary Creature - Goblin Noble,R,dmu,rare,r
+Hellrider,4,Creature,Creature - Devil,R,mm3,rare,r
+Pia and Kiran Nalaar,4,Creature,Legendary Creature - Human Artificer,R,ori,rare,r
+Rampaging Raptor,4,Creature,Creature - Dinosaur,R,mom,rare,r
+Fury,5,Creature,Creature - Elemental Incarnation,R,mh2,mythic,r
+Glorybringer,5,Creature,Creature - Dragon,R,akh,rare,r
+Goldspan Dragon,5,Creature,Creature - Dragon,R,khm,mythic,r
+"Kiki-Jiki, Mirror Breaker",5,Creature,Legendary Creature - Goblin Shaman,R,ima,mythic,r
+Thundermaw Hellkite,5,Creature,Creature - Dragon,R,m13,mythic,r
+Zealous Conscripts,5,Creature,Creature - Human Warrior,R,mm3,rare,r
+Inferno Titan,6,Creature,Creature - Giant,R,cm2,mythic,r
+Oliphaunt,6,Creature,Creature - Elephant,R,ltr,common,r
+"Chandra, Torch of Defiance",4,Planeswalker,Legendary Planeswalker - Chandra,R,kld,mythic,r
+"Daretti, Scrap Savant",4,Planeswalker,Legendary Planeswalker - Daretti,R,cm2,mythic,r
+Burst Lightning,1,Instant,Instant,R,mm2,common,r
+Lightning Bolt,1,Instant,Instant,R,a25,uncommon,r
+Abrade,2,Instant,Instant,R,hou,uncommon,r
+Desperate Ritual,2,Instant,Instant - Arcane,R,uma,uncommon,r
+Incinerate,2,Instant,Instant,R,jvc,common,r
+Pyretic Ritual,2,Instant,Instant,R,m11,common,r
+Char,3,Instant,Instant,R,gk1,rare,r
+Seething Song,3,Instant,Instant,R,ddg,common,r
+Mine Collapse,4,Instant,Instant,R,mh2,common,r
+Through the Breach,5,Instant,Instant - Arcane,R,uma,rare,r
+Fireblast,6,Instant,Instant,R,vma,uncommon,r
+Chain Lightning,1,Sorcery,Sorcery,R,bbd,uncommon,r
+Faithless Looting,1,Sorcery,Sorcery,R,uma,common,r
+Firebolt,1,Sorcery,Sorcery,R,ody,common,r
+Arc Trail,2,Sorcery,Sorcery,R,som,uncommon,r
+Mizzium Mortars,2,Sorcery,Sorcery,R,mm3,rare,r
+Light Up the Stage,3,Sorcery,Sorcery,R,rna,uncommon,r
+Nahiri's Warcrafting,3,Sorcery,Sorcery,R,mom,rare,r
+Wheel of Fortune,3,Sorcery,Sorcery,R,vma,mythic,r
+Fiery Confluence,4,Sorcery,Sorcery,R,c15,rare,r
+Mizzix's Mastery,4,Sorcery,Sorcery,R,c15,rare,r
+Mox Ruby,0,Artifact,Artifact,R,vma,bonus,r
+Kumano Faces Kakkazan,1,Enchantment,Enchantment - Saga,R,neo,uncommon,r
+Bitter Reunion,2,Enchantment,Enchantment,R,bro,common,r
+Underworld Breach,2,Enchantment,Enchantment,R,thb,rare,r
+Fable of the Mirror-Breaker,3,Enchantment,Enchantment - Saga,R,neo,rare,r
+Mana Flare,3,Enchantment,Enchantment,R,prm,rare,r
+Sulfuric Vortex,3,Enchantment,Enchantment,R,ema,rare,r
+Sneak Attack,4,Enchantment,Enchantment,R,ema,mythic,r
+Splinter Twin,4,Enchantment,Enchantment - Aura,R,mm2,rare,r
+Arbor Elf,1,Creature,Creature - Elf Druid,G,a25,common,g
+Birds of Paradise,1,Creature,Creature - Bird,G,gk2,rare,g
+Delighted Halfling,1,Creature,Creature - Halfling Citizen,G,ltr,rare,g
+Elvish Mystic,1,Creature,Creature - Elf Druid,G,ddu,common,g
+Elvish Reclaimer,1,Creature,Creature - Elf Warrior,G,m20,rare,g
+Hexdrinker,1,Creature,Creature - Snake,G,mh1,mythic,g
+Joraga Treespeaker,1,Creature,Creature - Elf Druid,G,roe,uncommon,g
+Llanowar Elves,1,Creature,Creature - Elf Druid,G,gnt,common,g
+Sylvan Safekeeper,1,Creature,Creature - Human Wizard,G,jud,rare,g
+Deeproot Wayfinder,2,Creature,Creature - Merfolk Scout,G,mom,rare,g
+Devoted Druid,2,Creature,Creature - Elf Druid,G,uma,uncommon,g
+Outland Liberator,2,Creature,Creature - Human Werewolf,G,mid,uncommon,g
+"Rofellos, Llanowar Emissary",2,Creature,Legendary Creature - Elf Druid,G,vma,rare,g
+Sakura-Tribe Elder,2,Creature,Creature - Snake Shaman,G,c18,common,g
+Scavenging Ooze,2,Creature,Creature - Ooze,G,cm2,rare,g
+Sylvan Caryatid,2,Creature,Creature - Plant,G,ths,rare,g
+Wall of Roots,2,Creature,Creature - Plant Wall,G,ima,common,g
+Augur of Autumn,3,Creature,Creature - Human Druid,G,mid,rare,g
+Courser of Kruphix,3,Creature,Enchantment Creature - Centaur,G,a25,rare,g
+Endurance,3,Creature,Creature - Elemental Incarnation,G,mh2,mythic,g
+Eternal Witness,3,Creature,Creature - Human Shaman,G,uma,uncommon,g
+Ramunap Excavator,3,Creature,Creature - Naga Cleric,G,hou,rare,g
+Reclamation Sage,3,Creature,Creature - Elf Shaman,G,c18,uncommon,g
+Tireless Tracker,3,Creature,Creature - Human Scout,G,soi,rare,g
+Oracle of Mul Daya,4,Creature,Creature - Elf Shaman,G,zen,rare,g
+Questing Beast,4,Creature,Legendary Creature - Beast,G,eld,mythic,g
+Ulvenwald Oddity,4,Creature,Creature - Beast,G,vow,rare,g
+Deep Forest Hermit,5,Creature,Creature - Elf Druid,G,mh1,rare,g
+Deranged Hermit,5,Creature,Creature - Elf,G,vma,rare,g
+Elder Gargaroth,5,Creature,Creature - Beast,G,m21,mythic,g
+"Thrun, Breaker of Silence",5,Creature,Legendary Creature - Troll Shaman,G,one,rare,g
+"Titania, Protector of Argoth",5,Creature,Legendary Creature - Elemental,G,c14,mythic,g
+Workshop Warchief,5,Creature,Creature - Rhino Warrior,G,snc,rare,g
+"Kogla, the Titan Ape",6,Creature,Legendary Creature - Ape,G,iko,rare,g
+Primeval Titan,6,Creature,Creature - Giant,G,ima,mythic,g
+Hornet Queen,7,Creature,Creature - Insect,G,m15,rare,g
+Titan of Industry,7,Creature,Creature - Elemental,G,snc,mythic,g
+Craterhoof Behemoth,8,Creature,Creature - Beast,G,mm3,mythic,g
+Woodfall Primus,8,Creature,Creature - Treefolk Shaman,G,uma,rare,g
+Worldspine Wurm,11,Creature,Creature - Wurm,G,rtr,mythic,g
+Wrenn and Realmbreaker,3,Planeswalker,Legendary Planeswalker - Wrenn,G,mom,mythic,g
+Garruk Wildspeaker,4,Planeswalker,Legendary Planeswalker - Garruk,G,gvl,mythic,g
+"Nissa, Who Shakes the World",5,Planeswalker,Legendary Planeswalker - Nissa,G,war,rare,g
+"Nissa, Ascended Animist",7,Planeswalker,Legendary Planeswalker - Nissa,G,one,mythic,g
+Crop Rotation,1,Instant,Instant,G,ddr,common,g
+Force of Vigor,4,Instant,Instant,G,mh1,rare,g
+Green Sun's Zenith,1,Sorcery,Sorcery,G,ema,rare,g
+Pest Infestation,1,Sorcery,Sorcery,G,c21,rare,g
+Channel,2,Sorcery,Sorcery,G,ima,mythic,g
+Finale of Devastation,2,Sorcery,Sorcery,G,war,mythic,g
+Life from the Loam,2,Sorcery,Sorcery,G,rav,rare,g
+Regrowth,2,Sorcery,Sorcery,G,mh1,uncommon,g
+Natural Order,4,Sorcery,Sorcery,G,ema,mythic,g
+Mox Emerald,0,Artifact,Artifact,G,vma,bonus,g
+Birthing Pod,4,Artifact,Artifact,G,nph,rare,g
+Esika's Chariot,4,Artifact,Legendary Artifact - Vehicle,G,khm,rare,g
+Exploration,1,Enchantment,Enchantment,G,usg,rare,g
+Fastbond,1,Enchantment,Enchantment,G,vma,mythic,g
+Utopia Sprawl,1,Enchantment,Enchantment - Aura,G,a25,uncommon,g
+Oath of Druids,2,Enchantment,Enchantment,G,c16,rare,g
+Survival of the Fittest,2,Enchantment,Enchantment,G,tpr,mythic,g
+Sylvan Library,2,Enchantment,Enchantment,G,ema,rare,g
+Invasion of Ikoria,2,Battle,Battle - Siege,G,mom,rare,g
+Talisman of Progress,2,Artifact,Artifact,C,mrd,uncommon,m
+Soulherder,3,Creature,Creature - Spirit,WU,mh1,uncommon,m
+"Teferi, Time Raveler",3,Planeswalker,Legendary Planeswalker - Teferi,UW,war,rare,m
+"Urza, Lord Protector",3,Creature,Legendary Creature - Human Artificer,WU,bro,mythic,m
+Fractured Identity,5,Sorcery,Sorcery,UW,c17,rare,m
+"Teferi, Hero of Dominaria",5,Planeswalker,Legendary Planeswalker - Teferi,WU,dom,mythic,m
+Baleful Strix,2,Creature,Artifact Creature - Bird,BU,e01,uncommon,m
+"Rona, Herald of Invasion",2,Creature,Legendary Creature - Human Wizard,UB,mom,rare,m
+Talisman of Dominance,2,Artifact,Artifact,UB,mrd,uncommon,m
+Thief of Sanity,3,Creature,Creature - Specter,UB,grn,rare,m
+Ertai Resurrected,4,Creature,Legendary Creature - Phyrexian Human Wizard,UB,dmu,rare,m
+Fallen Shinobi,5,Creature,Creature - Zombie Ninja,UB,mh1,rare,m
+The Scarab God,5,Creature,Legendary Creature - God,BU,hou,mythic,m
+Bloodtithe Harvester,2,Creature,Creature - Vampire,BR,vow,uncommon,m
+"Kroxa, Titan of Death's Hunger",2,Creature,Legendary Creature - Elder Giant,BR,thb,mythic,m
+Talisman of Indulgence,2,Artifact,Artifact,BR,mrd,uncommon,m
+"Daretti, Ingenious Iconoclast",3,Planeswalker,Legendary Planeswalker - Daretti,BR,pz2,mythic,m
+Fire Covenant,3,Instant,Instant,BR,ice,uncommon,m
+Kolaghan's Command,3,Instant,Instant,BR,dtk,rare,m
+Orcish Lumberjack,1,Creature,Creature - Orc,RG,ice,common,m
+Manamorphose,2,Instant,Instant,GR,mma,uncommon,m
+Talisman of Impulse,2,Artifact,Artifact,RG,mrd,uncommon,m
+Wrenn and Six,2,Planeswalker,Legendary Planeswalker - Wrenn,GR,mh1,mythic,m
+"Minsc & Boo, Timeless Heroes",4,Planeswalker,Legendary Planeswalker - Minsc,GR,clb,mythic,m
+Escape to the Wilds,5,Sorcery,Sorcery,GR,eld,rare,m
+Kogla and Yidaro,6,Creature,Legendary Creature - Ape Dinosaur Turtle,RG,mom,rare,m
+"Etali, Primal Conqueror",7,Creature,Legendary Creature - Elder Dinosaur,RG,mom,rare,m
+Talisman of Unity,2,Artifact,Artifact,WG,mrd,uncommon,m
+Voice of Resurgence,2,Creature,Creature - Elemental,WG,dgm,mythic,m
+Kitchen Finks,3,Creature,Creature - Ouphe,WG,uma,uncommon,m
+Knight of Autumn,3,Creature,Creature - Dryad Knight,GW,pgrn,rare,m
+Knight of the Reliquary,3,Creature,Creature - Human Knight,GW,ima,rare,m
+"Sigarda, Font of Blessings",4,Creature,Legendary Creature - Angel,WG,mat,rare,m
+Damn,2,Sorcery,Sorcery,BW,mh2,rare,m
+Talisman of Hierarchy,2,Artifact,Artifact,WB,mh1,uncommon,m
+Tidehollow Sculler,2,Creature,Artifact Creature - Zombie,WB,ala,uncommon,m
+Lingering Souls,3,Sorcery,Sorcery,BW,tsr,special,m
+Lurrus of the Dream-Den,3,Creature,Legendary Creature - Cat Nightmare,BW,iko,rare,m
+Vindicate,3,Sorcery,Sorcery,BW,a25,rare,m
+Ashen Rider,8,Creature,Creature - Archon,BW,ths,mythic,m
+Expressive Iteration,2,Sorcery,Sorcery,RU,stx,uncommon,m
+Talisman of Creativity,2,Artifact,Artifact,UR,mh1,uncommon,m
+Third Path Iconoclast,2,Creature,Creature - Human Monk,UR,bro,uncommon,m
+Dack Fayden,3,Planeswalker,Legendary Planeswalker - Dack,UR,ema,mythic,m
+"Saheeli, Sublime Artificer",3,Planeswalker,Legendary Planeswalker - Saheeli,UR,war,uncommon,m
+Magma Opus,8,Instant,Instant,UR,stx,mythic,m
+Assassin's Trophy,2,Instant,Instant,BG,grn,rare,m
+Fiend Artisan,2,Creature,Creature - Nightmare,BG,iko,mythic,m
+Talisman of Resilience,2,Artifact,Artifact,BG,mh1,uncommon,m
+Tear Asunder,2,Instant,Instant,BG,dmu,uncommon,m
+"Grist, the Hunger Tide",3,Planeswalker,Legendary Planeswalker - Grist,BG,mh2,mythic,m
+Life // Death,2,Sorcery,Sorcery,BG,apc,uncommon,m
+"Vraska, Golgari Queen",4,Planeswalker,Legendary Planeswalker - Vraska,BG,med,mythic,m
+Figure of Destiny,1,Creature,Creature - Kithkin,RW,ddl,rare,m
+Forth Eorlingas!,2,Sorcery,Sorcery,WR,ltc,rare,m
+Talisman of Conviction,2,Artifact,Artifact,WR,mh1,uncommon,m
+"Zirda, the Dawnwaker",3,Creature,Legendary Creature - Elemental Fox,WR,iko,rare,m
+Showdown of the Skalds,4,Enchantment,Enchantment - Saga,RW,khm,rare,m
+"Otharri, Suns' Glory",5,Creature,Legendary Creature - Phoenix,WR,onc,mythic,m
+"Kinnan, Bonder Prodigy",2,Creature,Legendary Creature - Human Druid,UG,iko,mythic,m
+Suspicious Stowaway,2,Creature,Creature - Human Rogue Werewolf,GU,mid,rare,m
+Talisman of Curiosity,2,Artifact,Artifact,UG,mh1,uncommon,m
+"Oko, Thief of Crowns",3,Planeswalker,Legendary Planeswalker - Oko,GU,eld,mythic,m
+"Uro, Titan of Nature's Wrath",3,Creature,Legendary Creature - Elder Giant,GU,thb,mythic,m
+Sail into the West,4,Instant,Instant,UG,ltc,rare,m
+"Tamiyo, Collector of Tales",4,Planeswalker,Legendary Planeswalker - Tamiyo,UG,war,rare,m
+Noble Hierarch,1,Creature,Creature - Human Druid,WUG,uma,rare,m
+Sphinx of the Steel Wind,8,Creature,Artifact Creature - Sphinx,BUW,ema,mythic,m
+Cruel Ultimatum,7,Sorcery,Sorcery,UBR,ala,rare,m
+Ignoble Hierarch,1,Creature,Creature - Goblin Shaman,BGR,mh2,rare,m
+Inspired Ultimatum,7,Sorcery,Sorcery,WUR,iko,rare,m
+"Leovold, Emissary of Trest",3,Creature,Legendary Creature - Elf Advisor,BGU,cn2,mythic,m
+"Atraxa, Grand Unifier",7,Creature,Legendary Creature - Phyrexian Angel,WUBG,one,mythic,m
+"Omnath, Locus of Creation",4,Creature,Legendary Creature - Elemental,WUBRG,znr,mythic,m
+"Golos, Tireless Pilgrim",5,Creature,Legendary Artifact Creature - Scout,BGRUW,m20,rare,m
+"Kenrith, the Returned King",5,Creature,Legendary Creature - Human Noble,WUBRG,eld,mythic,m
+Hangarback Walker,0,Creature,Artifact Creature - Construct,C,ori,rare,c
+Walking Ballista,0,Creature,Artifact Creature - Construct,C,aer,rare,c
+Phyrexian Revoker,2,Creature,Artifact Creature - Horror,C,m15,rare,c
+Solemn Simulacrum,4,Creature,Artifact Creature - Golem,C,mrd,rare,c
+Wurmcoil Engine,6,Creature,Artifact Creature - Wurm,C,cm2,mythic,c
+Myr Battlesphere,7,Creature,Artifact Creature - Myr Construct,C,c18,rare,c
+Blightsteel Colossus,12,Creature,Artifact Creature - Golem,C,mbs,mythic,c
+"Emrakul, the Aeons Torn",15,Creature,Legendary Creature - Eldrazi,C,uma,mythic,c
+Sundering Titan,8,Creature,Artifact Creature - Golem,C,a25,rare,c
+Triplicate Titan,9,Creature,Artifact Creature - Golem,C,c21,rare,c
+"Ulamog, the Ceaseless Hunger",10,Creature,Legendary Creature - Eldrazi,C,bfz,mythic,c
+"Ulamog, the Infinite Gyre",11,Creature,Legendary Creature - Eldrazi,C,uma,mythic,c
+"Karn, Scion of Urza",4,Planeswalker,Legendary Planeswalker - Karn,C,dom,mythic,c
+"Ugin, the Spirit Dragon",8,Planeswalker,Legendary Planeswalker - Ugin,C,frf,mythic,c
+Black Lotus,0,Artifact,Artifact,C,vma,bonus,c
+Chrome Mox,0,Artifact,Artifact,C,mrd,rare,c
+Everflowing Chalice,0,Artifact,Artifact,C,cm2,uncommon,c
+Lion's Eye Diamond,0,Artifact,Artifact,C,vma,mythic,c
+Lotus Petal,0,Artifact,Artifact,C,tmp,common,c
+Mana Crypt,0,Artifact,Artifact,C,vma,mythic,c
+Mishra's Bauble,0,Artifact,Artifact,C,2xm,uncommon,c
+Mox Diamond,0,Artifact,Artifact,C,tpr,mythic,c
+Mox Opal,0,Artifact,Legendary Artifact,C,som,mythic,c
+Zuran Orb,0,Artifact,Artifact,C,ice,uncommon,c
+Candelabra of Tawnos,1,Artifact,Artifact,C,atq,rare,c
+Mana Vault,1,Artifact,Artifact,C,uma,mythic,c
+Relic of Progenitus,1,Artifact,Artifact,C,ema,uncommon,c
+Retrofitter Foundry,1,Artifact,Artifact,C,c18,rare,c
+Sensei's Divining Top,1,Artifact,Artifact,C,ema,rare,c
+Skullclamp,1,Artifact,Artifact - Equipment,C,c17,uncommon,c
+Sol Ring,1,Artifact,Artifact,C,c18,uncommon,c
+Agatha's Soul Cauldron,2,Artifact,Legendary Artifact,C,woe,mythic,c
+Grim Monolith,2,Artifact,Artifact,C,ulg,rare,c
+Helm of Awakening,2,Artifact,Artifact,C,vis,uncommon,c
+Lightning Greaves,2,Artifact,Artifact - Equipment,C,mrd,uncommon,c
+Pentad Prism,2,Artifact,Artifact,C,5dn,common,c
+Smuggler's Copter,2,Artifact,Artifact - Vehicle,C,kld,rare,c
+Umezawa's Jitte,2,Artifact,Legendary Artifact - Equipment,C,v16,mythic,c
+"Anduril, Flame of the West",3,Artifact,Legendary Artifact - Equipment,C,ltr,mythic,c
+Basalt Monolith,3,Artifact,Artifact,C,cm2,uncommon,c
+Coalition Relic,3,Artifact,Artifact,C,a25,rare,c
+Crucible of Worlds,3,Artifact,Artifact,C,pm19,mythic,c
+Mirage Mirror,3,Artifact,Artifact,C,hou,rare,c
+Palantir of Orthanc,3,Artifact,Legendary Artifact,C,ltr,mythic,c
+Aetherflux Reservoir,4,Artifact,Artifact,C,kld,rare,c
+Mystic Forge,4,Artifact,Artifact,C,m20,rare,c
+The One Ring,4,Artifact,Legendary Artifact,C,ltr,mythic,c
+Thran Dynamo,4,Artifact,Artifact,C,ima,uncommon,c
+Batterskull,5,Artifact,Artifact - Equipment,C,nph,mythic,c
+Memory Jar,5,Artifact,Artifact,C,vma,mythic,c
+The Mightstone and Weakstone,5,Artifact,Legendary Artifact - Powerstone,C,bro,rare,c
+Mindslaver,6,Artifact,Legendary Artifact,C,som,mythic,c
+Kaldra Compleat,7,Artifact,Legendary Artifact - Equipment,C,mh2,mythic,c
+Portal to Phyrexia,9,Artifact,Artifact,C,bro,mythic,c
+Celestial Colonnade,0,Land,Land,WU,uma,rare,l
+Hallowed Fountain,0,Land,Land - Plains Island,WU,rna,rare,l
+Seachrome Coast,0,Land,Land,UW,som,rare,l
+Tundra,0,Land,Land - Plains Island,WU,vma,rare,l
+Creeping Tar Pit,0,Land,Land,,wwk,rare,l
+Darkslick Shores,0,Land,Land,BU,som,rare,l
+Underground Sea,0,Land,Land - Island Swamp,UB,vma,rare,l
+Watery Grave,0,Land,Land - Island Swamp,UB,grn,rare,l
+Badlands,0,Land,Land - Swamp Mountain,BR,vma,rare,l
+Blackcleave Cliffs,0,Land,Land,BR,som,rare,l
+Blood Crypt,0,Land,Land - Swamp Mountain,BR,rna,rare,l
+Graven Cairns,0,Land,Land,,fut,rare,l
+Copperline Gorge,0,Land,Land,GR,som,rare,l
+Raging Ravine,0,Land,Land,,wwk,rare,l
+Stomping Ground,0,Land,Land - Mountain Forest,RG,rna,rare,l
+Taiga,0,Land,Land - Mountain Forest,RG,vma,rare,l
+Horizon Canopy,0,Land,Land,GW,zne,mythic,l
+Razorverge Thicket,0,Land,Land,GW,som,rare,l
+Savannah,0,Land,Land - Forest Plains,WG,vma,rare,l
+Temple Garden,0,Land,Land - Forest Plains,WG,grn,rare,l
+Concealed Courtyard,0,Land,Land,BW,kld,rare,l
+Godless Shrine,0,Land,Land - Plains Swamp,WB,rna,rare,l
+Scrubland,0,Land,Land - Plains Swamp,WB,vma,rare,l
+Silent Clearing,0,Land,Land,BW,mh1,rare,l
+Fiery Islet,0,Land,Land,RU,mh1,rare,l
+Spirebluff Canal,0,Land,Land,RU,kld,rare,l
+Steam Vents,0,Land,Land - Island Mountain,UR,grn,rare,l
+Volcanic Island,0,Land,Land - Island Mountain,UR,vma,rare,l
+Bayou,0,Land,Land - Swamp Forest,BG,vma,rare,l
+Blooming Marsh,0,Land,Land,BG,kld,rare,l
+Nurturing Peatland,0,Land,Land,BG,mh1,rare,l
+Overgrown Tomb,0,Land,Land - Swamp Forest,BG,grn,rare,l
+Inspiring Vantage,0,Land,Land,RW,kld,rare,l
+Plateau,0,Land,Land - Mountain Plains,WR,vma,rare,l
+Sacred Foundry,0,Land,Land - Mountain Plains,WR,grn,rare,l
+Sunbaked Canyon,0,Land,Land,RW,mh1,rare,l
+Botanical Sanctum,0,Land,Land,GU,kld,rare,l
+Breeding Pool,0,Land,Land - Forest Island,UG,rna,rare,l
+Tropical Island,0,Land,Land - Forest Island,GU,vma,rare,l
+Waterlogged Grove,0,Land,Land,GU,mh1,rare,l
+Spara's Headquarters,0,Land,Land - Forest Plains Island,GUW,snc,rare,l
+Raffine's Tower,0,Land,Land - Plains Island Swamp,BUW,snc,rare,l
+Xander's Lounge,0,Land,Land - Island Swamp Mountain,BRU,snc,rare,l
+Ziatora's Proving Ground,0,Land,Land - Swamp Mountain Forest,BGR,snc,rare,l
+Jetmir's Garden,0,Land,Land - Mountain Forest Plains,GRW,snc,rare,l
+Savai Triome,0,Land,Land - Mountain Plains Swamp,BRW,iko,rare,l
+Ketria Triome,0,Land,Land - Forest Island Mountain,GRU,iko,rare,l
+Indatha Triome,0,Land,Land - Plains Swamp Forest,BGW,iko,rare,l
+Raugrin Triome,0,Land,Land - Island Mountain Plains,RUW,iko,rare,l
+Zagoth Triome,0,Land,Land - Swamp Forest Island,BGU,iko,rare,l
+Ancient Tomb,0,Land,Land,,uma,rare,l
+Arid Mesa,0,Land,Land,,mm3,rare,l
+Bazaar of Baghdad,0,Land,Land,,vma,mythic,l
+Bloodstained Mire,0,Land,Land,,ktk,rare,l
+"Boseiju, Who Endures",0,Land,Legendary Land,G,neo,rare,l
+City of Traitors,0,Land,Land,,exo,rare,l
+Dark Depths,0,Land,Legendary Snow Land,,2xm,mythic,l
+Field of the Dead,0,Land,Land,,m20,rare,l
+Flooded Strand,0,Land,Land,,ktk,rare,l
+Gaea's Cradle,0,Land,Legendary Land,G,usg,rare,l
+Karakas,0,Land,Legendary Land,W,uma,mythic,l
+Library of Alexandria,0,Land,Land,,vma,mythic,l
+Mana Confluence,0,Land,Land,,jou,rare,l
+Marsh Flats,0,Land,Land,,mm3,rare,l
+Mishra's Factory,0,Land,Land,,a25,uncommon,l
+Mishra's Workshop,0,Land,Land,,vma,mythic,l
+Misty Rainforest,0,Land,Land,,mm3,rare,l
+Mutavault,0,Land,Land,,mor,rare,l
+"Otawara, Soaring City",0,Land,Legendary Land,,neo,rare,l
+Polluted Delta,0,Land,Land,,ktk,rare,l
+Prismatic Vista,0,Land,Land,,mh1,rare,l
+Scalding Tarn,0,Land,Land,,mm3,rare,l
+Strip Mine,0,Land,Land,,vma,rare,l
+Thespian's Stage,0,Land,Land,,uma,rare,l
+Tolarian Academy,0,Land,Legendary Land,U,vma,mythic,l
+"Urborg, Tomb of Yawgmoth",0,Land,Legendary Land,,plc,rare,l
+Urza's Saga,0,Land,Enchantment Land - Urza’s Saga,,mh2,rare,l
+Verdant Catacombs,0,Land,Land,,mm3,rare,l
+Wasteland,0,Land,Land,,ema,rare,l
+Windswept Heath,0,Land,Land,,ktk,rare,l
+Wooded Foothills,0,Land,Land,,ktk,rare,l
